@@ -183,6 +183,7 @@ iframe {
 
 table {
     border-collapse: collapse;
+    text-align: center;
 }
 
 table tr td img {
